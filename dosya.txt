@@ -1,2 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbU5ybU04X1ZRS0Z0R3ZQMlRSSi1B@5.35.83.232:1080#%F0%9F%87%B7%F0%9F%87%BARussia%20R%20%28Only-Game%29%20%28Ss-tcp%29
-vmess://eyJhZGQiOiI1LjM1LjgzLjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMWM2NGIwZi00MTcyLTRiNTQtODRjZC05MWYwNjUwMzRiNGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU4MDA0IiwicHMiOiLwn4e38J+HulJ1c3NpYSBSIChPbmx5LUdhbWUpIChWbWVzcy10Y3ApIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+[
+  {
+    "server": "103.88.242.136",
+    "server_port": 1080,
+    "password": "fqE-vnNOsB9YLyG8q1v4Tw",
+    "method": "chacha20-ietf-poly1305"
+  }
+]
